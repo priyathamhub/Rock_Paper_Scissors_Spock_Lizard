@@ -11,8 +11,8 @@ We created this by using some of the predefined modules in python like:
 
 --> pillow - To Handle the Images
 
---> random - It chooses The input with in the range
+--> random - It chooses The input within the range
 
-TO EXECUTE THE CODE PLEASE INSTALL ALL THE PACKAGES WHICH ARE MISSING BY USNIG : pip install packagename
+TO EXECUTE THE CODE PLEASE INSTALL ALL THE PACKAGES WHICH ARE MISSING BY USING : pip install packagename
 
 *** Any Doubts regarding the code please free to contact me on telegram @https://t.me/thehoodkillsthebug
