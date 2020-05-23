@@ -15,4 +15,4 @@ We created this by using some of the predefined modules in python like:
 
 TO EXECUTE THE CODE PLEASE INSTALL ALL THE PACKAGES WHICH ARE MISSING BY USING : pip install packagename
 
-*** Any Doubts regarding the code please free to contact me on telegram @https://t.me/thehoodkillsthebug
+*** Any Doubts regarding the code please free to contact me on telegram @https://t.me/thedaredevilsolves
